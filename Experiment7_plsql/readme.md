@@ -1,5 +1,6 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
-
+## Name: RUPESH J
+## Reg.no: 212222060204
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
